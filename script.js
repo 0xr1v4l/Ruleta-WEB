@@ -57,4 +57,5 @@ function calcular(rand){
             sumarPuntos(10);
             break;
     }},5000);
+
 }
